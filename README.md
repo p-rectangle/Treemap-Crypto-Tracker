@@ -4,6 +4,7 @@ This crypto tracker uses a CSV file to track crypto in an easy to see treemap fo
 This script uses the binance trading pairs where USDT is used to track the token.
 
 symbol,amount,USD_Purchase_Value,Purchase_Price
+
 AAVEUSDT,0.59946,94.62,0
 
 USD_Purchase_Value 
